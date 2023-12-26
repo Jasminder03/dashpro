@@ -1,0 +1,19 @@
+.navbar-toggler{
+    background-color: whitesmoke;
+    border:  3px solid red;
+}
+
+.bt{
+    border: none;
+    border-radius: 10px;
+    font-size: 1.3vw;
+    color: whitesmoke;
+}
+
+.acc{
+    font-family: Verdana;
+    font-size: 1.3vw;
+    border-left: 2px dashed rgb(98, 98, 132);
+    padding: 1rem;
+}
+

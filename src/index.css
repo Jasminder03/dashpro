@@ -1,0 +1,25 @@
+*,
+*::after,
+*::before{
+  box-sizing: border-box;
+}
+
+body{
+  margin: 0;
+  padding: 0;
+  overflow-x: hidden;
+  background-color: #141a28;
+}
+
+a{
+  color: whitesmoke;
+  text-decoration: none;
+}
+
+a:hover{
+  color: whitesmoke;
+}
+
+a:visited{
+  color: green;
+}

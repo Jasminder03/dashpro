@@ -1,0 +1,42 @@
+
+
+.list{
+    background-color: #1b2537;
+    color: whitesmoke;
+    list-style-type: none;
+    height: auto;
+    margin-bottom: 0;
+}
+
+.sidebar{
+    margin-left: -1rem;
+}
+
+.list li{
+    font-size: 1.5vw;
+    margin-left: -1.6rem;
+    padding-top: 3rem;
+    padding-left: 1rem;
+    padding-bottom: 1rem;
+}
+
+.list li:hover{
+    background-color: #49494c ;
+    transition: all .3s;
+}
+
+@media screen and (max-width:1246px) {
+    .list{
+        height: auto;
+        padding-left: 1rem;
+    }
+    
+}
+
+@media screen and (max-width:720px) {
+
+    .list{
+        padding-left: 1rem;
+    }
+    
+}
